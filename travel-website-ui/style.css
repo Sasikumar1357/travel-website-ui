@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background: #000;
+    font-family: Arial, sans-serif;
+}
+
+.container img {
+    width: 100%;
+    display: block;
+}
